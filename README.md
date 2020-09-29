@@ -6,7 +6,7 @@
 This simple game is modified from Flappy Gopher game from Ebiten. 
 It is written in Go using Ebiten library.
 
-Mira is running her scooter. She is going to meet objects on her way, and jumping over them is only the
+Mira is running her scooter. She is going to meet objects on her way, and jumping over them is the only
 way to go pass. Every time when she successfully avoids an object she will get one point.
 
 ### How to play
@@ -22,6 +22,6 @@ Press `space` key or left-click when you want to jump.
 - Deleting upper pipes
 - Increasing gap between two adjacent pipes
 - Making pipes' height fixed
-- Changing to running on the ground automatically
+- Changing to automatically running on the ground 
 - Jumping only once at a time. Another jump can only be done as long as Mira is on the ground.
 
